@@ -23,13 +23,8 @@
 	padding-bottom: 20px;
 }
 
-.step .left{
-	width: 40%;
-	float: left;
-}
-
 .step .right{
-	width: 60%;
+	width: 100%;
 	float: right;
 }
 
